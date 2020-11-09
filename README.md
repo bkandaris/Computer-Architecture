@@ -1,3 +1,20 @@
+<!-- Step 0 - Inventory of the files 
+
+cpu.py -> This is the cpu constructor with an ALU method, and trace method attached to the class that
+handle taking care of the mathematical operations and printing out the state of the CPU
+
+ls8.py -> This file is responsible for calling the CPU class
+
+ls8-spec.md -> This is a readme with instructions
+
+examples file -> Holds all of the .ls8 files needed for the project as well as instructions
+
+
+-->
+
+
+
+
 # Computer Architecture
 
 ## Project
